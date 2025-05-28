@@ -1,0 +1,1 @@
+# TCG-Simulator-no-cooldown
